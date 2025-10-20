@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+plotly
+paho-mqtt
+ray
+scikit-learn
